@@ -1,0 +1,8 @@
+outputs/
+activations/
+venv/
+__pycache__/
+*.pt
+*.json
+visualize.py 
+logistic_regression.py
